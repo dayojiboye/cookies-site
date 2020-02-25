@@ -1,0 +1,15 @@
+
+.navbar li a:hover {
+    background: silver;
+}
+header {
+    color: white;
+}
+header h1 {
+    font-size: 50px;
+    text-shadow: 3px 3px 2px black;
+}
+header p {
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black;
+}
